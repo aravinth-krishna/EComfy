@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
   <Project Path="src/EComfy.API/EComfy.API.csproj" />
   <Project Path="src/EComfy.Application/EComfy.Application.csproj" />
   <Project Path="src/EComfy.Domain/EComfy.Domain.csproj" />
