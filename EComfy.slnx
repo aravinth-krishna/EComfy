@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/EComfy.API/EComfy.API.csproj" />
+  <Project Path="src/EComfy.Application/EComfy.Application.csproj" />
+  <Project Path="src/EComfy.Domain/EComfy.Domain.csproj" />
+  <Project Path="src/EComfy.Infrastructure/EComfy.Infrastructure.csproj" />
+</Solution>
